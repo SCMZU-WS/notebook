@@ -5,6 +5,7 @@
 当前更新的内容有：
 - Deep Learning论文笔记
   - [two-stream fusion](https://github.com/SCMZU-WS/notebook/blob/main/two-stream_fusion%E7%AC%94%E8%AE%B0.ipynb)：双流融合模型动作识别论文笔记
+  - [U-Net笔记（一）](https://github.com/SCMZU-WS/notebook/blob/main/U-Net%E9%98%B6%E6%AE%B5%E6%80%A7%E7%AC%94%E8%AE%B0%E4%B8%8E%E6%80%BB%E7%BB%93.ipynb)：医学图像分割领域的关键模型
   - [transformer笔记](https://github.com/SCMZU-WS/notebook/blob/main/transformer%E7%AC%94%E8%AE%B0.ipynb)：NLP里程碑
   - [SwinTransformer笔记（一）](https://github.com/SCMZU-WS/notebook/blob/main/Swin_Transformer%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89.ipynb)：cv领域多尺度的ViT
   - [SwinTransformer笔记（二）](https://github.com/SCMZU-WS/notebook/blob/main/Swin_Transformer%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89.ipynb)：SwinTransformer算法复现及部分源码阅读分析（基于pytorch构建）
