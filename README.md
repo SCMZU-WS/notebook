@@ -16,4 +16,5 @@
   - [决策树CART剪枝算法](https://github.com/SCMZU-WS/notebook/blob/main/CART.ipynb)
   - [朴素贝叶斯算法](https://github.com/SCMZU-WS/notebook/blob/main/naiveBayes.ipynb)
   - [感知机算法](https://github.com/SCMZU-WS/notebook/blob/main/perceptronTest.ipynb)
-  
+- 其他
+  - [白嫖各平台算力的奇淫巧计](https://github.com/SCMZU-WS/notebook/blob/main/%E7%99%BD%E5%AB%96%E5%90%84%E5%B9%B3%E5%8F%B0%E7%AE%97%E5%8A%9B%E7%9A%84%E5%A5%87%E6%B7%AB%E5%B7%A7%E8%AE%A1.md)
