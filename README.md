@@ -1,6 +1,6 @@
 ## 文献笔记汇总
 
-记录阅读的文献笔记，记录格式无标准想到哪写到哪，用于个人总结与复习。
+记录阅读的文献笔记，记录格式无标准想到哪写到哪，用于个人总结与复习，如有谬误欢迎指正。
 
 当前更新的内容有：
 - Deep Learning论文笔记
@@ -10,6 +10,10 @@
   - [SwinTransformer笔记（一）](https://github.com/SCMZU-WS/notebook/blob/main/Swin_Transformer%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89.ipynb)：cv领域多尺度的ViT
   - [SwinTransformer笔记（二）](https://github.com/SCMZU-WS/notebook/blob/main/Swin_Transformer%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89.ipynb)：SwinTransformer算法复现及部分源码阅读分析（基于pytorch构建）
   - [SwinTransformer笔记（三）](https://github.com/SCMZU-WS/notebook/blob/main/Swin_Transformer%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89.ipynb)：SwinTransformer中patch merging操作的探究
+  - [GAT笔记](https://github.com/SCMZU-WS/notebook/blob/main/GAT%E7%AC%94%E8%AE%B0.ipynb)：Graph Attention Network邻域注意力机制
+  - [Graphormer论文笔记（一）](https://github.com/SCMZU-WS/notebook/blob/main/Graphormer%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89.ipynb)：transformer在图计算领域的应用
+  - [Graphormer论文笔记（二）](https://github.com/SCMZU-WS/notebook/blob/main/Graphormer%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89.ipynb)：讨论最短距离嵌入bias，节点度的嵌入方法等
+  - [Graphormer论文笔记（三）](https://github.com/SCMZU-WS/notebook/blob/main/Graphormer%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89.ipynb)：虚拟节点的添加及编码、边特征bias嵌入及编码
 - Deep Learning学习笔记
   - [关于BCEloss与CEloss的探究](https://github.com/SCMZU-WS/notebook/blob/main/BCEloss%E4%B8%8ECEloss.ipynb)
   - [SEBlock模块的构建](https://github.com/SCMZU-WS/notebook/blob/main/SEBlock.ipynb)
